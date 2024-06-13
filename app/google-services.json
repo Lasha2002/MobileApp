@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "650874116248",
+    "firebase_url": "https://lasha-6682c-default-rtdb.firebaseio.com",
+    "project_id": "lasha-6682c",
+    "storage_bucket": "lasha-6682c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650874116248:android:de6b1d2ac3648a1ecf58ed",
+        "android_client_info": {
+          "package_name": "com.example.lashazarnadze"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDioxsun1skEXM_zH7RUfzyCXEmhKjTarU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
